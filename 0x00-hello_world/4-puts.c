@@ -1,18 +1,13 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
- * Description: 'the program's description'
- * @parameter: describe the parameter
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	char message[] = "Programming is like building a multilingual puzzle;
-	puts(message);
-
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return 0;
 }
